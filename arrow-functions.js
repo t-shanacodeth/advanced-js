@@ -35,7 +35,7 @@ const functioName = () => {
 
 const addTwoNumbers1 = (a, b) => {
   // Code block
-   return a+ b;
+   return a + b;
 }
 
 let sum = addTwoNumbers1(3, 5);
