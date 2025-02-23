@@ -1,0 +1,22 @@
+{
+  "name": "advanced",
+  "version": "1.0.0",
+  "description": "Practising ES6 JS",
+  "main": "arrow-functions.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t-shanacodeth/advanced-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t-shanacodeth/advanced-js/issues"
+  },
+  "homepage": "https://github.com/t-shanacodeth/advanced-js#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
